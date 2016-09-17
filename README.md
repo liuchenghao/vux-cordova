@@ -1,0 +1,2 @@
+# vux-cordova
+cordova-plugins
